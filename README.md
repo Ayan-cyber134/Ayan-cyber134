@@ -22,4 +22,4 @@ A curious developer making things to solve his curiosities.
 ![](https://github-contributor-stats.vercel.app/api?username=Ayan-cyber134&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ayan-cyber134&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Ayan-cyber134&color=orange)](https://visitcount.itsvg.in)
